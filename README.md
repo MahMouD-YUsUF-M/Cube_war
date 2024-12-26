@@ -8,8 +8,13 @@ This project showcases a cube racing through challenging tracks with engaging ga
 - **Customizable Tracks**: Add your own tracks to expand the gameplay.
 - **Scoring System**: Track your high scores and compete with friends.
 
-## Screenshots
-Add screenshots or GIFs of the gameplay here to make the README visually appealing.
+## Video
+
+
+https://github.com/user-attachments/assets/bdf306d3-8067-49e1-aa95-72b2df13e34e
+
+
+
 
 ## Getting Started
 
